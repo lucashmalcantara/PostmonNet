@@ -8,5 +8,6 @@ namespace Postmon4Net
 {
     public class Class1
     {
+        // Teste.
     }
 }
